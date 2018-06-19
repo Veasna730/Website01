@@ -1,0 +1,23 @@
+#shopping{
+    text-align: center;
+    font-size: 20px;
+    background-color: brown;
+    /* tab-size:20px; */
+}
+
+#welcome{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    background-color: black;
+}
+
+.image1{
+    width: 200px;
+    height: 100px;
+    /* align-content: center; */
+}
+.image2{
+    width: 300px;
+    height: 200px;
+}
